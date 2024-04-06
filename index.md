@@ -3,9 +3,10 @@
 Outside of school and programming, I spend my days making sandwiches over at **The Melt**.
 
 > I Love It Here!
+> 
 > -- Customers
 
-Check out [the menu]() or what [my typical shifts]() are like.
+Check out what [my typical shifts](https://github.com/cieloaloy/cse-110-proj/blob/main/index.md#typically-my-shifts-look-something-like-this) are like, or my takes on [the menu](https://github.com/cieloaloy/cse-110-proj/blob/main/index.md#the-menu).
 
 ## Typically, my shifts look something like this:
 

@@ -57,6 +57,6 @@ Personally, my top 3 sandwiches on the menu are:
 2. Mac Daddy
 3. Steak & Cheese
 
-Hey, I wasn't lying about the grilled cheese looking good. 👀
+Hey, I wasn't lying about the grilled cheese looking good. [👀](secret.md)
 
 My favorite perk of working here is definitely the food! The menu is really solid and the ingredients are quite high-quality, especially the bread.
